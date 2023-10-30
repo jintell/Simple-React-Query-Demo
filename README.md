@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with React and React Query Demo App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It also uses the following technology:
+
+1. React 18.2.0
+2. React DOM 8.2.0
+3. React Router DOM 6.17.0
+4. ReactScript 5.0.1
+5. Typescript 4.9.5 [Typescript Quick Start](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+6. Tanstack React-Query 5.0.5 [Tansatck reactquery](https://tanstack.com/query/latest/docs/react/overview)
+7. Bootstrap 5.3.2
 
 ## Available Scripts
 
